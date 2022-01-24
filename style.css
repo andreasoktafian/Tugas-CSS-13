@@ -1,0 +1,35 @@
+.satu{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+
+    border: solid;
+    border-image-source: url("hearts.png");
+    border-image-width: 30px;
+    border-image-repeat: round;
+    border-image-slice: 20 22;
+    border-image-outset: 30px;
+    
+    box-shadow: 35px 35px;
+
+    
+}
+
+.dua{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    margin-left: 300px;
+
+    border: solid;
+    border-image-source: url("border1.png");
+    border-image-width: 30px;
+    border-image-repeat: round;
+    border-image-slice: 32;
+    border-image-outset: 15px;
+
+    box-shadow: 10px 10px 30px;
+}
